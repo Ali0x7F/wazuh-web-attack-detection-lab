@@ -1,5 +1,5 @@
 # Wazuh Server Setup
-s
+
 ## Environment
 - OS: Ubuntu
 - Wazuh version: 4.14.7
