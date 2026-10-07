@@ -97,7 +97,7 @@ Accessed the Wazuh Dashboard at `https://192.168.33.137` and logged in successfu
 
 Confirmed the dashboard was fully operational, showing alert severity summaries.
 
-![Dashboard Overview](dashboar overview.png)
+![Dashboard Overview](dashboardoverview.png)
 
 ## 12. Agent Deployment
 
